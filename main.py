@@ -1,6 +1,7 @@
 import pandas as pd
 import re
 import string
+import seaborn
 import numpy as np
 import nltk.data
 
